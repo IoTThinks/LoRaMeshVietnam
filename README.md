@@ -1,4 +1,5 @@
-Nơi lưu trữ tài liệu cho LoRa Mesh Vietnam.
+# LoRa Mesh Vietnam
+## Công nghệ và ứng dụng trên nền tảng LoRa Mesh tầm xa cho thành phố thông minh
 * [Trang chủ](https://github.com/IoTThinks/LoRaMeshVietnam)
 * [Facebook group](https://www.facebook.com/groups/iotthinks)
 
