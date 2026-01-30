@@ -2,7 +2,7 @@
 Mạng LoRa Mesh và ứng dụng thông minh diện rộng cho thiết bị IoT tại Việt Nam.
 - Mạng ngang hàng được xây dựng dựa trên mã nguồn mở MeshCore và góp sức từ cộng đồng.
 - Chuyên cho khối thiết bị IoT
-- Tài liệu: [LoRaMeshVietnam Wiki](https://github.com/IoTThinks/LoRaMeshVietnam/wiki)
+- Tài liệu: [LoRaMeshVietnam Wiki](https://github.com/IoTThinks/LoRaMeshVietnam/wiki) &#x1F448; &#x1F448;	&#x1F448;
 
 ## 1. Mục tiêu
 Cùng tham gia mạng LoRa Mesh cộng đồng tầm xa nhằm xây dựng hạ tầng truyền thông không dây ổn định, tiết kiệm năng lượng, phục vụ cho các ứng dụng IoT, đô thị thông minh, nông nghiệp thông minh, quan trắc môi trường, và an ninh giám sát tại Việt Nam.
